@@ -16,6 +16,7 @@ export const ProjectStyles = styled.div`
         font-size:26px;
         margin-bottom:12px;
         margin-top:8px;
+        
     }
 
     > h3 {
@@ -24,6 +25,7 @@ export const ProjectStyles = styled.div`
         margin-top:0px;
         font-weight:300;
         margin-top:8px;
+        
     }
 
 `;

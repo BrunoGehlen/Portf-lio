@@ -24,4 +24,5 @@ export const SkillTitle = styled.div`
 export const SkillDescription = styled.div`
     width:100%;
     text-align:justify;
+    font-size:17px;
 `;
