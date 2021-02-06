@@ -7,6 +7,7 @@ export const MyPictureStyles = styled.img`
     margin:auto;
     margin-bottom:0;
     margin-top:120px;
+    
     @media screen and (min-width: 769px) {
         margin-top:80px;
     }
